@@ -1,0 +1,6 @@
+# build output
+/logtriage
+
+# logs (except the demo input)
+*.log
+!sample.log

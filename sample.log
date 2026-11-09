@@ -1,0 +1,6 @@
+2026-11-08T10:00:00Z INFO service started
+2026-11-08T10:00:05Z WARN slow query 1200ms
+2026-11-08T10:00:09Z ERROR db timeout
+malformed line
+2026-11-08T10:00:12Z INFO request ok
+2026-11-08T10:00:15Z ERROR disk full

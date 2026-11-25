@@ -31,7 +31,7 @@ Example output (using `sample.log` from this repo):
 
 | Flag | Default | Description |
 |---|---|---|
-| `-level` | `ERROR` | Log level to match; only lines at this level are printed |
+| `-level` | `ERROR` | Log level to match: `DEBUG`, `INFO`, `WARN` or `ERROR` (case-insensitive, so `-level info` works); only lines at that level are printed |
 
 ## Development
 
